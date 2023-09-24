@@ -10,7 +10,7 @@ Pertama tama untuk admin sudah disediakan akun dengan username: admin dan passwo
 Admin hanya memiliki 1 akun dan tidak dapat mendaftarkan akunnya sendiri dan berbeda dengan user, yang harus mendaftarkan akunnya terlebih dahulu.
 
 User Menu : 
-- Untuk membuat reservasi pada restoran, ustomer diharuskan untuk meregistrasi akunnya terlebih dahulu.
+- Untuk membuat reservasi pada restoran, customer diharuskan untuk meregistrasi akunnya terlebih dahulu.
 - Pada website ini, sebelum user ingin mereservasi makanan maupun meja, user dapat melihat daftar makanan dan juga harganya
 - Langkah pertama untuk  reservasi, user harus input data diri mereka beserta dengan emailnya supaya restoran dapat menghubungi user lebih lanjut seputar reservasi ini
 - Setelah itu, user akan diarahkan pada menu selanjutnya untuk input nama, memilih tanggal, jam, jumlah pengunjung dan memilih meja. Jika meja tidak tersedia, maka akan diarahkan untuk memilih meja lainnya yang tersedia.
