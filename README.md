@@ -2,7 +2,7 @@
 
 Mengenai Projek : 
 
-Projek ini mencakup pengembangan sebuah sistem reservasi meja dan pemesanan makanan untuk restoran dengan memanfaatkan sebuah database untuk memudahkan para restoran dalam me manajemen restoran tersebut.
+Projek ini mencakup pengembangan sebuah sistem reservasi meja dan pemesanan makanan untuk restoran dengan memanfaatkan sebuah database untuk memudahkan para restoran dalam me manajemen restoran tersebut. Selain itu, saya memilih untuk membuat sebuah projek reservasi restoran dikarenakan  memberikan peluang untuk saya melatih kemampuan dalam melakukan query SQL, yang merupakan keterampilan yang sangat relevan dalam dunia data analis. Selain itu, penggunaan database dalam proyek ini dapat menjadi fondasi bagi peningkatan pemahaman tentang pengolahan data, yang merupakan komponen kunci dalam bidang Machine Learning (ML) dan Ilmu Data (Data Science). Dengan demikian, proyek ini juga dapat menjadi langkah awal yang baik untuk merambah ke bidang tersebut.
 
 Website ini memiliki dua tampilan yang berbeda yaitu untuk admin dan juga untuk para pengguna (users) 
 
