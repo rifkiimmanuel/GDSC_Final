@@ -1,24 +1,23 @@
-# GDSC_Final
+# Restaurant Reservation System Using PHP and mysql
 
-Mengenai Projek : 
+About This project : 
 
-Projek ini mencakup pengembangan sebuah sistem reservasi meja dan pemesanan makanan untuk restoran dengan memanfaatkan sebuah database untuk memudahkan para restoran dalam me manajemen restoran tersebut. Selain itu, saya memilih untuk membuat sebuah projek reservasi restoran dikarenakan  memberikan peluang untuk saya melatih kemampuan dalam melakukan query SQL, yang merupakan keterampilan yang sangat relevan dalam dunia data analis. Selain itu, penggunaan database dalam proyek ini dapat menjadi fondasi bagi peningkatan pemahaman tentang pengolahan data, yang merupakan komponen kunci dalam bidang Machine Learning (ML) dan Ilmu Data (Data Science). Dengan demikian, proyek ini juga dapat menjadi langkah awal yang baik untuk merambah ke bidang tersebut.
-
+This project entails creating a table reservation and food ordering system for restaurants using a database to ease restaurant administration. Furthermore, the restaurant reservation project requires a strong understanding of SQL queries, which is an important ability in the field of web development. The use of databases in this project can lay the groundwork for a better knowledge of SQL queries in real-world wrbsite/
 Website ini memiliki dua tampilan yang berbeda yaitu untuk admin dan juga untuk para pengguna (users) 
 
-Pertama tama untuk admin sudah disediakan akun dengan username: admin dan password: admin123
-Admin hanya memiliki 1 akun dan tidak dapat mendaftarkan akunnya sendiri dan berbeda dengan user, yang harus mendaftarkan akunnya terlebih dahulu.
+First of all, an admin account has been created with the username admin and the password admin123.
+The administrator just has one account and is unable to register his own, unlike the user, who must first register his account.
 
-User Menu : 
-- Untuk membuat reservasi pada restoran, customer diharuskan untuk meregistrasi akunnya terlebih dahulu.
-- Pada website ini, sebelum user ingin mereservasi makanan maupun meja, user dapat melihat daftar makanan dan juga harganya
-- Langkah pertama untuk  reservasi, user harus input data diri mereka beserta dengan emailnya supaya restoran dapat menghubungi user lebih lanjut seputar reservasi ini
-- Setelah itu, user akan diarahkan pada menu selanjutnya untuk input nama, memilih tanggal, jam, jumlah pengunjung dan memilih meja. Jika meja tidak tersedia, maka akan diarahkan untuk memilih meja lainnya yang tersedia.
-- Klik 'add' maka info reservasi user akan di perlihatkan 
-- User juga dapat mereservasi makanan yang diinginkannya
-- Klik 'next' maka info reservasi makanan oleh user akan diperlihatkan kembali
-- User dapat mendaftarkan akunnya  lalu login supaya dapat menggunakan website ini untuk reservasi.
-- User dapat check kembali info reservasi nya atau back to home menu.
+User Menu: 
+- To make a reservation at a restaurant, customers are required to register their account first.
+- On this website, before the user wants to reserve a meal or table, the user can see a list of food and prices.
+- The first step to make a reservation, the user must input their personal data along with their email so that the restaurant can contact the user further about this reservation.
+- After that, the user will be directed to the next menu to input the name, select the date, time, number of visitors and select a table. If the table is not available, it will be directed to choose another available table.
+- Click 'add' then the user reservation info will be shown. 
+- User can also reserve the food they want
+- Click 'next' then the user's food reservation info will be shown again.
+- User can register their account and login in order to use this website for reservation.
+- User can check their reservation info again or back to home menu.
 
-Admin Menu : 
-Pada website ini, berbeda dengan tampilan user, tampilan admin cukup berbeda dengan tampilan user. Pada tampilan admin, admin dapat menghapus, melihat menambahkan dan update seluruh data yang ada pada website ini.
+Admin Menu: 
+On this website, unlike the user interface, the admin interface is quite different from the user interface. In the admin view, the admin can delete, view add and update all data on this website.
